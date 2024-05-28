@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: sans-serif;
+    
+
+}
+body{
+    color: red;
+    
+
+    width: 100%;
+    background: black;
+    
+}
+.h1
+{
+    font-size: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content
+{
+    font-weight: 900;
+    color: aqua;
+    text-align: center;
+    display: list-item;
+    margin-top: 30%;
+    font-size: 300%;
+    width: 100%;
+}
